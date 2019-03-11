@@ -32,11 +32,11 @@ All code is endowed with comments, describing classes objects and methods in pro
 * `Handler` - class handles all GameObjects.
 
 ### Game Objects:
-* Player - no comment needed
-* Obstacles (8 types, all described in GameGraphics code)
-* Coin - adds extra 30 points.
-* MedKit - adds extra one live
-* Portal - teleports into next level
+* `Player` - no comment needed
+* `Obstacles` (8 types, all described in GameGraphics code)
+* `Coin` - adds extra 30 points.
+* `MedKit` - adds extra one live
+* `Portal` - teleports into next level
 
 ### Controlling player
 Whole controll procedure is based on Keyinput Class which is observing our active keys. While pressed or released horizontal and vertical acceleration of player velocity is changed depends on key type. At every level gravity is different. Player can also pause the game using `SPACE_BAR`. Unfreezing game also at pressing `SPACE_BAR` again.
@@ -56,8 +56,8 @@ Screen here.
 
 ## Example of work
 ---
-Here you can see how it really looks. I did test of `Set Frequency, Get Potentiometer Value and Observed item`.
-As you can see at the screens below, everything works fine.
+Here you can see how it really looks. 
+
 
 
 ![](images/Work_screen.png)
