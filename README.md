@@ -9,7 +9,7 @@
 
 ## Introduction
 ---
-Hello, I am glad to see you reading this file.This Game was programmed using java to pass subject at Warsaw University of Technology.
+Hello, I am glad to see you reading this file. This game was programmed using java to pass subject at Warsaw University of Technology.
 I am aware that code style isn't clean but I did as much as possible to make it understandable for all of you.
 Any questions send via mail at : **boocianpawel@gmail.com**
 
@@ -44,7 +44,7 @@ All code is endowed with comments, describing classes objects and methods in pro
 Whole controll procedure is based on Keyinput Class which is observing our active keys. While pressed or released horizontal and vertical acceleration of player velocity is changed depends on key type. At every level gravity is different. Player can also pause the game using `SPACE_BAR`. Unfreezing game also at pressing `SPACE_BAR` again.
 
 ### Config.ini file
-In this project we use Config.ini file and ini4j library. Congif file includes paths to every type GameObject graphics. Value of graviti etc is included in other file called "LevelX.txt" where 'X' is number of level.
+In this project we use Config.ini file and ini4j library. Congif file includes paths to every type GameObject graphics. Value of gravitation etc is included in other file called "LevelX.txt" where 'X' is number of level.
 
 ### Level loading
 Levels are loaded by special Handler method loadLevel().Struct of Level.txt file is : 
