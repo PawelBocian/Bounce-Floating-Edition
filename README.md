@@ -52,15 +52,17 @@ Levels are loaded by special Handler method loadLevel().Struct of Level.txt file
 * - Amount (fx. 10)
 * - Position X and Y of this object.
 
-![](images/Work_screen.png)
+![](readme_images/level.png)
 
 ## Example of work
 ---
 Here you can see how it really looks. 
 
-
-
-![](readme_images/level.png)
-
+![](readme_images/menu.png)
+![](readme_images/help.png)
+![](readme_images/scores.png)
+![](readme_images/game.png)
+![](readme_images/game2.png)
+![](readme_images/game3.png)
 
 Video of all functionality here [BocianooTech](https://www.youtube.com/channel/UClkl_F0n8ZwLmSB5RVzRORw)
