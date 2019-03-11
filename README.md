@@ -2,13 +2,13 @@
 
 * Introduction
 * Manual
-* How it works ? 
+* Description
 * Example of work
 
 ## Introduction
 ---
-Hello, I am glad to see you reading this file.This Game was programmed using java to pass subject at Warsaw university of Technology.
-I am aware that code style isn't clean but I did as much as possible to make it understandable for al of you.
+Hello, I am glad to see you reading this file.This Game was programmed using java to pass subject at Warsaw University of Technology.
+I am aware that code style isn't clean but I did as much as possible to make it understandable for all of you.
 Any questions send via mail at : **boocianpawel@gmail.com**
 
 ## Manual
@@ -49,9 +49,6 @@ Levels are loaded by special Handler method loadLevel().Struct of Level.txt file
 * - Name of object (Obstacle0)
 * - Amount (fx. 10)
 * - Position X and Y of this object.
-
-Screen here.
-
 
 
 ## Example of work
