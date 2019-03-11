@@ -48,9 +48,9 @@ In this project we use Config.ini file and ini4j library. Congif file includes p
 
 ### Level loading
 Levels are loaded by special Handler method loadLevel().Struct of Level.txt file is : 
-* - Name of object (Obstacle0)
-* - Amount (fx. 10)
-* - Position X and Y of this object.
+- Name of object (Obstacle0)
+- Amount (fx. 10)
+- Position X and Y of this object.
 
 ![](readme_images/level.png)
 
