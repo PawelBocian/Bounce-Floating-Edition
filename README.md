@@ -25,18 +25,18 @@ All code is endowed with comments, describing classes objects and methods in pro
 
 ### Most important classes:
 
-`GameObject` - abstract class to create all active Objects like Player, Obstacles, MedKit, Coins and Portal.
-`Game Window` - main window where graphics is rendered
-`Game Values` - special class to contain all game params like player lives, points. Actual window size (width and hight)
-`Game Graphics` - where graphics are loaded using Config.ini file and scaled.
-`Handler` - class handles all GameObjects.
+* `GameObject` - abstract class to create all active Objects like Player, Obstacles, MedKit, Coins and Portal.
+* `Game Window` - main window where graphics is rendered
+* `Game Values` - special class to contain all game params like player lives, points. Actual window size (width and hight)
+* `Game Graphics` - where graphics are loaded using Config.ini file and scaled.
+* `Handler` - class handles all GameObjects.
 
 ### Game Objects:
-Player - no comment needed
-Obstacles (8 types, all described in GameGraphics code)
-Coin - adds extra 30 points.
-MedKit - adds extra one live
-Portal - teleports into next level
+* Player - no comment needed
+* Obstacles (8 types, all described in GameGraphics code)
+* Coin - adds extra 30 points.
+* MedKit - adds extra one live
+* Portal - teleports into next level
 
 ### Controlling player
 Whole controll procedure is based on Keyinput Class which is observing our active keys. While pressed or released horizontal and vertical acceleration of player velocity is changed depends on key type. At every level gravity is different. Player can also pause the game using `SPACE_BAR`. Unfreezing game also at pressing `SPACE_BAR` again.
@@ -46,9 +46,9 @@ In this project we use Config.ini file and ini4j library. Congif file includes p
 
 ### Level loading
 Levels are loaded by special Handler method loadLevel().Struct of Level.txt file is : 
-- Name of object (Obstacle0)
-- Amount (fx. 10)
-- Position X and Y of this object.
+* - Name of object (Obstacle0)
+* - Amount (fx. 10)
+* - Position X and Y of this object.
 
 Screen here.
 
