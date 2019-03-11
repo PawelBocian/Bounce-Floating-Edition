@@ -16,7 +16,7 @@ Any questions send via mail at : **boocianpawel@gmail.com**
 ## Manual
 ---
 The game is about finishing levels by entering into portals, avoiding contact with Obstacles (spikes) as fast as possible! 
-Using keys UP, DOWN, LEFR, RIGHT or W, A, S, D you can controll bounce ball. Game has 3 levels icluded.
+Using keys `UP, DOWN, LEFR, RIGHT` or `W, A, S, D` you can controll bounce ball. Game has 3 levels icluded.
 
 ### Using libraries
 * [ini4j](http://ini4j.sourceforge.net/)
@@ -52,6 +52,7 @@ Levels are loaded by special Handler method loadLevel().Struct of Level.txt file
 * - Amount (fx. 10)
 * - Position X and Y of this object.
 
+![](images/Work_screen.png)
 
 ## Example of work
 ---
@@ -59,7 +60,7 @@ Here you can see how it really looks.
 
 
 
-![](images/Work_screen.png)
+![](readme_images/level.png)
 
 
 Video of all functionality here [BocianooTech](https://www.youtube.com/channel/UClkl_F0n8ZwLmSB5RVzRORw)
