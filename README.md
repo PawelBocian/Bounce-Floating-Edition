@@ -17,7 +17,7 @@ The game is about finishing levels by entering into portals, avoiding contact wi
 Using keys UP, DOWN, LEFR, RIGHT or W, A, S, D you can controll bounce ball. Game has 3 levels icluded.
 
 ### Using libraries
-* ini4j
+* [ini4j](http://ini4j.sourceforge.net/)
 
 ## Description 
 ---
