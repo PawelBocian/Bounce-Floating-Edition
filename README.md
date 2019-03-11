@@ -59,10 +59,10 @@ Levels are loaded by special Handler method loadLevel().Struct of Level.txt file
 Here you can see how it really looks. 
 
 ![](readme_images/menu.png)
-![](readme_images/help.png)
-![](readme_images/scores.png)
+![](readme_images/Help.png)
+![](readme_images/Scores.png)
 ![](readme_images/game.png)
 ![](readme_images/game2.png)
-![](readme_images/game3.png)
+![](readme_images/Game3.png)
 
 Video of all functionality here [BocianooTech](https://www.youtube.com/channel/UClkl_F0n8ZwLmSB5RVzRORw)
