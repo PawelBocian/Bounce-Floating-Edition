@@ -5,6 +5,8 @@
 * Description
 * Example of work
 
+![](readme_images/readme_bar.png)
+
 ## Introduction
 ---
 Hello, I am glad to see you reading this file.This Game was programmed using java to pass subject at Warsaw University of Technology.
